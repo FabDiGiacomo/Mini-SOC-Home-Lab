@@ -44,9 +44,16 @@ This confirms that Wazuh is successfully generating and logging security events.
 Screenshots included in this repository show:
 
 1. VirtualBox VM configuration
+
+<img width="1918" height="1008" alt="Screenshot 1" src="https://github.com/user-attachments/assets/6500939b-40cd-4ebc-9d54-fb6ad7bfef53" />
+
 2. Wazuh Manager running status
-3. Active Wazuh services
-4. Generated security alerts
+   
+<img width="1918" height="1021" alt="Screenshot 2" src="https://github.com/user-attachments/assets/05e1c94a-3a04-4946-a8d2-fa79e75359fa" />
+
+3. Generated security alerts
+
+<img width="607" height="16" alt="Screenshot 4" src="https://github.com/user-attachments/assets/fc0c4af0-47f1-4f88-a3cf-1e7f629ef842" />
 
 ## What I Learned
 
