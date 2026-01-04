@@ -1,10 +1,13 @@
 ## Screenshots
 
-### 1. VirtualBox VM configuration
-![VirtualBox VM](screenshots/01_virtualbox_vm_configuration.png)
+### VirtualBox VM configuration
+![VirtualBox VM](screenshots/01_virtualbox_vm_overview.png)
 
-### 2. Wazuh Manager service status
-![Wazuh Manager Status](screenshots/02_wazuh_manager_service_status.png)
+### Wazuh Manager running
+![Wazuh Manager](screenshots/02_wazuh_manager_service_running.png)
 
-### 3. SSH failed login alerts (Brute Force)
-![SSH Alerts](screenshots/03_ssh_failed_login_alerts.png)
+### SSH failed login alert
+![SSH Alert](screenshots/03_ssh_failed_login_alert.png)
+
+### Alerts JSON output
+![Alerts JSON](screenshots/04_alerts_json_output.png)
