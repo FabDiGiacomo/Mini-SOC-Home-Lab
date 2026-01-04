@@ -81,7 +81,7 @@ Generated SSH authentication alerts
 4. How to inspect alerts via command line
 5. Basic Linux system administration skills
 
-   ---
+---
    
 ## Disclaimer
 
