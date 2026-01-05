@@ -66,7 +66,7 @@ The service is active and running correctly.
 To simulate a real SOC detection scenario, multiple failed SSH login attempts were generated from a Windows host using a non-existent user.
 Example command used:
 
-ssh fakeuser@<wazuh-server-ip>
+ssh fakeuser@wazuh-server-ip
 
 Multiple incorrect passwords were entered to trigger authentication failures.
 
