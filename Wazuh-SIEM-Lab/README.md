@@ -22,6 +22,22 @@ and how security alerts are generated and analyzed.
 
 ---
 
+## Lab Setup Verification
+
+### VirtualBox VM configuration
+![VirtualBox VM configuration](screenshots/01_virtualbox_vm_configuration.png)
+
+This screenshot shows the Ubuntu Server virtual machine configured in VirtualBox
+and used as the Wazuh Manager host.
+
+### Wazuh Manager service status
+![Wazuh Manager running](screenshots/02_wazuh_manager_service_running.png)
+
+This screenshot confirms that the Wazuh Manager service is active and running
+before performing any detection or attack simulation.
+
+---
+
 ## Lab Overview
 
 - **SIEM Platform:** Wazuh
