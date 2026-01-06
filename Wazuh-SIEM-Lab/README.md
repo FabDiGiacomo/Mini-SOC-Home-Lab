@@ -1,6 +1,6 @@
 # Mini SOC Home Lab – Wazuh SIEM
 
-This project demonstrates a basic **Security Operations Center (SOC) home lab**
+This project demonstrates a **Security Operations Center (SOC) home lab**
 built using **Wazuh SIEM** on an **Ubuntu Server virtual machine**.
 
 The goal is to understand how a SIEM works, how logs are collected,
@@ -139,11 +139,11 @@ Generated SSH authentication alerts
 
 ## What I Learned
 
-1. Basic SIEM architecture and concepts
+1. SIEM architecture and concepts
 2. How Wazuh collects and analyzes logs
 3. How to verify running security services
 4. How to inspect alerts via command line
-5. Basic Linux system administration skills
+5. Linux system administration skills
 
 ---
    
@@ -156,4 +156,4 @@ This project is for educational purposes only and does not represent a productio
 ## Author
 
 Fabio Di Giacomo -
-Cybersecurity Student / SOC Junior Aspirant
+Cybersecurity Student
