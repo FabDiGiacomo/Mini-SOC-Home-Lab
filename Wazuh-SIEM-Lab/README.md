@@ -88,7 +88,7 @@ Multiple incorrect passwords were entered to trigger authentication failures.
 
 ---
 
-## Alert Analysis (SOC Junior Perspective)
+## Alert Analysis
 
 During the SSH brute-force simulation, Wazuh generated a security alert related to multiple failed authentication attempts.
 
@@ -128,15 +128,6 @@ This confirms that Wazuh successfully generated and logged security events relat
 
 ---
 
-## Screenshots
-
-Screenshots included in this repository show:
-VirtualBox VM configuration
-Wazuh Manager running status
-Generated SSH authentication alerts
-
----
-
 ## What I Learned
 
 1. SIEM architecture and concepts
@@ -155,5 +146,4 @@ This project is for educational purposes only and does not represent a productio
 
 ## Author
 
-Fabio Di Giacomo -
-Cybersecurity Student
+Fabio Di Giacomo - 2025
