@@ -1,4 +1,4 @@
-# Mini SOC Home Lab – Wazuh SIEM
+# SOC Home Lab – Wazuh SIEM
 
 This project demonstrates a **Security Operations Center (SOC) home lab**
 built using **Wazuh SIEM** on an **Ubuntu Server virtual machine**.
