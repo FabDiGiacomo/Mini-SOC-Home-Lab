@@ -1,5 +1,3 @@
-[![CompTIA Security+](https://images.credly.com/size/220x220/images/74790a07-dbef-439d-ae0e-9328a01a97e0/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/40c61c59-8da5-4111-803b-0cc4ab78ca6f/whatsapp)
-
 # SOC Home Lab – Wazuh SIEM
 
 This project demonstrates a **Security Operations Center (SOC) home lab**
